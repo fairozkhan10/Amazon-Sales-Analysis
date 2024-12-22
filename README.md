@@ -12,7 +12,7 @@ The analysis addresses two key questions:
 
 By leveraging R and R Markdown, the project highlights actionable insights for e-commerce sellers, researchers, and businesses optimizing strategies on platforms like Amazon.
 
-> **Note**: This was a Collaborative Group Project** completed as part of our **Statistics 240: Data Science Modeling I** course at the **University of Wisconsin-Madison**.
+> **Note**: This was a **Collaborative Group Project** completed as part of our **Statistics 240: Data Science Modeling I** course at the **University of Wisconsin-Madison**.
 
 ---
 
